@@ -4,7 +4,7 @@
 
 This project explores the relationship between **Bitcoin market sentiment (Fear & Greed Index)** and **trader performance** using real trading data.
 
-The goal is to uncover whether market sentiment can be used as a signal for improving trading strategies.
+The goal is to uncover whether market sentiment can be used as a signal for improving trading strategies. Due to Data Contraints for Historical Data I've only uploaded Fear Index and Historical Data's CSV link is Added
 
 ---
 
